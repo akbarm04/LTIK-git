@@ -5,3 +5,6 @@ pembagian = a/b
 print(pembagian)
 
 print("Hello World")
+
+print("AKBAR GANTENG")
+
