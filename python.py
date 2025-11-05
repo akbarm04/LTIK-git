@@ -5,3 +5,6 @@ perkalian = a*b
 print(perkalian)
 
 print("Hello World")
+
+print("AKBAR GANTENG")
+
