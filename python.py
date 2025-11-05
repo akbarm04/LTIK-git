@@ -8,3 +8,6 @@ print("Hello World")
 
 print("AKBAR GANTENG")
 
+print("Daus kocak")
+
+
